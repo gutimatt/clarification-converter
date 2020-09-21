@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clarification-converter/static/css/main.357ae991.chunk.css",
+    "main.js": "/clarification-converter/static/js/main.9b999000.chunk.js",
+    "main.js.map": "/clarification-converter/static/js/main.9b999000.chunk.js.map",
+    "runtime-main.js": "/clarification-converter/static/js/runtime-main.8fe64e0a.js",
+    "runtime-main.js.map": "/clarification-converter/static/js/runtime-main.8fe64e0a.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/clarification-converter/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3ff76db7.chunk.js": "/clarification-converter/static/js/2.3ff76db7.chunk.js",
+    "static/js/2.3ff76db7.chunk.js.map": "/clarification-converter/static/js/2.3ff76db7.chunk.js.map",
+    "index.html": "/clarification-converter/index.html",
+    "precache-manifest.d0f299d753d8f238a36f9ac1ea24c79f.js": "/clarification-converter/precache-manifest.d0f299d753d8f238a36f9ac1ea24c79f.js",
+    "service-worker.js": "/clarification-converter/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/clarification-converter/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.357ae991.chunk.css.map": "/clarification-converter/static/css/main.357ae991.chunk.css.map",
+    "static/js/2.3ff76db7.chunk.js.LICENSE.txt": "/clarification-converter/static/js/2.3ff76db7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe64e0a.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3ff76db7.chunk.js",
+    "static/css/main.357ae991.chunk.css",
+    "static/js/main.9b999000.chunk.js"
+  ]
+}
